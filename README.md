@@ -858,13 +858,17 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ### Home Page:
-![doc](front.png)
+![doc](https://user-images.githubusercontent.com/93427208/153766200-976a6813-931b-4ec7-9ae8-b532a5cb67ed.png)
+
 ### Home Page bottom:
-![doc](frontdown.png)
+![doc](https://user-images.githubusercontent.com/93427208/153766208-8c7f4f2e-ece6-4cd0-ad51-46be2d8c61be.png)
+
 ### Home Page Extension:
-![doc](middle.png)
+![doc](https://user-images.githubusercontent.com/93427208/153766217-8cc6aa2e-68fd-4c97-a573-cf5092dec1f4.png)
+
 ### About us: 
-![doc](last.png)
+![doc](https://user-images.githubusercontent.com/93427208/153766223-80c03fe0-2d6b-4d45-b23a-51a65e8fd70e.png)
+
 
 ## Result:
 Thus a website is designed using bootstrap framework.
