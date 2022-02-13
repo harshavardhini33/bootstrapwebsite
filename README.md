@@ -36,6 +36,11 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
++
+![doc](.\img\front.png)
+![doc](./frontdown.png)
+![doc](./middle.png)
+![doc](./last.png)
 
 ### Home Page:
 
